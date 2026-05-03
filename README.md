@@ -1,72 +1,77 @@
-# 👋 Olá, eu sou o Victor Vasco
+# 👋 Hi, I'm Victor Vasco
 
-💻 Desenvolvedor Web  
-🚀 Construindo aplicações modernas com Java, Spring Boot e JavaScript  
-📍 Petrópolis - RJ, Brasil  
-
----
-
-## 🚀 Sobre mim
-
-- 🔭 Atualmente atuando como **Desenvolvedor Web Freelancer**
-- 🎓 Graduando em **Engenharia da Computação (UCP)**
-- ⚙️ Experiência no desenvolvimento de aplicações web completas
-- 📱 Experiência com desenvolvimento mobile utilizando **React Native**
-- 🌱 Estudando e evoluindo em **Python e arquitetura de sistemas**
-- 🔐 Experiência com autenticação via **JWT e Spring Security**
-- 🧠 Interesse em construir sistemas escaláveis e bem estruturados
+💻 Web Developer
+🚀 Building modern applications with Java, Spring Boot, and JavaScript
+📍 Petrópolis - RJ, Brazil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 About Me
 
-### 💻 Linguagens
-Java • JavaScript • TypeScript • Python • C  
+* 🔭 Currently working as a **Web Developer (Freelance / Personal Projects)**
+* 🎓 Computer Engineering student at **UCP**
+* ⚙️ Experience developing full web applications (back-end and front-end integration)
+* 📱 Experience with mobile development using **React Native**
+* 🌱 Currently learning and improving in **Python and system design**
+* 🔐 Knowledge of authentication and authorization with **JWT and Spring Security**
+* 🧠 Interested in building scalable and well-structured systems
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+
+Java • JavaScript • TypeScript • Python • C
 
 ### ⚙️ Back-End
-Spring Boot • JPA/Hibernate • APIs RESTful • Spring Security • JWT • Swagger  
+
+Spring Boot • JPA/Hibernate • REST APIs • Spring Security • JWT • Swagger
 
 ### 🌐 Front-End & Mobile
-React.js • Next.js • React Native  
 
-### 🗄️ Banco de Dados
-MySQL • PostgreSQL • MongoDB  
+React.js • Next.js • React Native
 
-### ☁️ DevOps & Ferramentas
-Docker • AWS • Git • GitHub  
+### 🗄️ Databases
 
----
+MySQL • PostgreSQL • MongoDB
 
-## 🧩 O que eu faço
+### ☁️ DevOps & Tools
 
-- 🔧 Desenvolvimento de APIs RESTful com boas práticas
-- 🔗 Integração entre back-end e front-end/mobile
-- 📱 Desenvolvimento de aplicações mobile com React Native
-- 🔐 Implementação de autenticação e autorização
-- 📄 Documentação de APIs com Swagger/OpenAPI
-- 🧪 Testes unitários com JUnit e Mockito
-- 🐳 Containerização com Docker
-- ☁️ Deploy e uso de serviços AWS
+Docker • AWS • Git • GitHub
 
 ---
 
-## 📌 Projetos em Destaque
+## 🧩 What I Do
 
-🔗 Em constante atualização — confira meus repositórios para ver projetos recentes com:
-
-- APIs completas com autenticação JWT  
-- Integração com banco de dados  
-- Aplicações web e mobile  
-
----
-
-## 🌐 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/victor-da-costa-vasco-258637206/
-- 🌐 Portfólio: https://victordacostavascoportfolio.netlify.app
-- 💻 GitHub: https://github.com/VictorV4sco
-- 📧 Email: victordcvasco@gmail.com
+* 🔧 Develop RESTful APIs following best practices
+* 🔗 Integrate back-end with web and mobile front-ends
+* 📱 Build mobile applications with React Native
+* 🔐 Implement authentication and authorization mechanisms
+* 📄 Document APIs using Swagger/OpenAPI
+* 🧪 Write unit tests with JUnit and Mockito
+* 🐳 Containerize applications using Docker
+* ☁️ Work with cloud services (AWS)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 📌 Featured Projects
+
+🔗 Constantly updating — check my repositories to see projects involving:
+
+* REST APIs and data management
+* Full web applications (front-end + back-end)
+* Mobile applications with React Native
+
+---
+
+## 🌐 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/victor-da-costa-vasco-258637206/
+* 🌐 Portfolio: https://victordacostavascoportfolio.netlify.app
+* 💻 GitHub: https://github.com/VictorV4sco
+* 📧 Email: [victordcvasco@gmail.com](mailto:victordcvasco@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
