@@ -57,7 +57,9 @@ Docker • AWS • Git • GitHub
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorV4sco&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorV4sco\&show_icons=true\&cache_seconds=60)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorV4sco\&layout=compact\&cache_seconds=60)
 
 ---
 
